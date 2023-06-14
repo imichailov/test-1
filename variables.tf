@@ -59,5 +59,5 @@ variable "availability_zone_b" {
 variable "aws_region" {
   type        = string
   description = "The only region we should use"
-  default     = "eu-west-1"
+  # default     = "eu-west-1"
 }
